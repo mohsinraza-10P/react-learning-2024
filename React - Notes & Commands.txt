@@ -16,3 +16,7 @@ npx create-react-app <project_name>
 
 npm install - Install dependencies of project
 npm run dev
+
+npm install -g parcel-bundler - Global
+npm install parcel-bundler --save-dev - Project
+
